@@ -16,7 +16,7 @@
 - Laravel 5.9
 
 #Para ejecutar el programa
-- Clonar el repositorio de github con el siguiente comando: git clone https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/SapiTello/crud_ludik.git
+- Clonar el repositorio de github con el siguiente comando: git clone https://github.com/SapiTello/crud_ludik.git
 - cd nombre del repositorio
 - En la terminal del VSC instalar el composer : composer install
 - php artisan serve
